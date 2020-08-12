@@ -25,9 +25,4 @@ class Doctor
     appointments.map {|appointment| appointment.doctor}
   end
   
-  # def artists
-  #   Song.all.select {|song| song.artist == self}
-  #   songs.map {|song| song.artist}
-  # end
-  
 end
